@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab05_Q1{
+public class main{
     public static int largestDigit(int number){
         int maxDigit=0;
         while (number>0){
